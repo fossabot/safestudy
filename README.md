@@ -1,0 +1,2 @@
+# safestudy
+docusaurus page
